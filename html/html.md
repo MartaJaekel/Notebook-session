@@ -4,4 +4,4 @@ List of basic HTML elements
 
 <body>
 <main>
-<footer>
+<footer> 
