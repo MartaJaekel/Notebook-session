@@ -1,0 +1,1 @@
+https://github.com/neuefische/cgn-web-23-3/blob/main/sessions/shell-basics/shell-basics.md
