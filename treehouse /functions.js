@@ -89,7 +89,7 @@ const myAccounts = {
     main: 10000,
     saving: 8000,
     secondary: 0,
-    terciary: 400
+    
 }
 
 function addAccountsToTable() {
