@@ -90,7 +90,7 @@ updateAccountTable();
 function add3Numbers(first,second,third) {
     const sum = first + second + third;
     console.log(sum)
-    return sum 
+    return sum
 }
 add3Numbers(3,4,5)
 const add6Numbers = add3Numbers(2,4,5) + add6Numbers(3,5,7);
